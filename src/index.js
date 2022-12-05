@@ -1,5 +1,5 @@
 
-import ReacterviceWorker from 'react-service-worker';
+import ReactServiceWorker from 'react-service-worker';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
